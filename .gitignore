@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# WorkSpace Settings
+.vscode
+
+# Database Files
+*.db
