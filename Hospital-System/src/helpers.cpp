@@ -1,7 +1,7 @@
 #include <iostream>
 #include <sqlite3.h>
-#include "callbacks.h"
-#include "globals.h"
+#include "../headers/callbacks.h"
+#include "../headers/globals.h"
 
 
 /* HELPER FUNCTIONS */

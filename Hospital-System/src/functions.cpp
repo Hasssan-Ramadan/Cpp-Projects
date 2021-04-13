@@ -1,7 +1,7 @@
 #include <iostream>
-#include "globals.h"
-#include "helpers.h"
-#include "callbacks.h"
+#include "../headers/globals.h"
+#include "../headers/helpers.h"
+#include "../headers/callbacks.h"
 
 
 /* MAIN FUNCTIONS */

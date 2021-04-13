@@ -1,8 +1,8 @@
 /* HEADERS */
 #include <iostream>
-#include "functions.h"
-#include "helpers.h"
-#include "globals.h"
+#include "../headers/functions.h"
+#include "../headers/helpers.h"
+#include "../headers/globals.h"
 
 sqlite3 *db;
 const int SPECIALIZATIONS_NUM = 20;
